@@ -1,6 +1,8 @@
 #!/usr/bin/python3
-
-# lockboxes
+"""
+Method to determine if all boxes can be opened
+Using prototype: def canUnlockAll(boxes)
+"""
 
 
 def canUnlockAll(boxes):
